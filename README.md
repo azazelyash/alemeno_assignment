@@ -11,6 +11,8 @@ This application was developed as an assignment for Alemeno Grp. The main aim of
 2. Firebase Core
 ```
 
+Min Sdk Version : 21
+
 <br>
 
 ## **Process**
